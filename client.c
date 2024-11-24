@@ -11,8 +11,6 @@
 #include <wayland-client-protocol.h>
 #include <wayland-client.h>
 
-#include "wayland-logo.h"
-
 #define COLOR_CHANNELS 4
 
 #define cstring_len(s) (sizeof(s) - 1)

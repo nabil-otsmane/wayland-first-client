@@ -10,7 +10,6 @@
 #include <wayland-client.h>
 
 #include "xdg-shell.h"
-#include "wayland-logo.h"
 
 #define COLOR_CHANNELS 4
 
